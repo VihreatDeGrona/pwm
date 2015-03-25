@@ -42,7 +42,7 @@
             param.
         </description>
         <param-name>configurationFile</param-name>
-        <param-value>PwmConfiguration.xml</param-value>
+        <param-value>/etc/pwm/PwmConfiguration.xml</param-value>
     </context-param>
     <welcome-file-list>
         <welcome-file>index.jsp</welcome-file>
