@@ -1,0 +1,10 @@
+
+# /pwm/servlet/
+/pwm/servlet/.swp
+/pwm/servlet/build
+
+# /pwm/servlet/web/WEB-INF/
+/pwm/servlet/web/WEB-INF/PwmConfiguration.xml
+
+# /pwm/servlet/web/WEB-INF/lib/
+/pwm/servlet/web/WEB-INF/lib/gson-2.2.2.jar
