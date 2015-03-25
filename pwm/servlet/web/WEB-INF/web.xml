@@ -35,7 +35,7 @@
             file inside the servlet's WEB-INF directory.
         </description>
         <param-name>pwmConfigPath</param-name>
-        <param-value>PwmConfiguration.xml</param-value>
+        <param-value>/etc/pwm/PwmConfiguration.xml</param-value>
     </context-param>
     <context-param>
         <description>Reload configuration on PwmConfiguration.xml modification.</description>
