@@ -23,4 +23,4 @@ Uusien release tagien julkaisun myötä voidaan lisätä uusia release tageja. P
 
 Tämä järjestely on tehty seuraavan sivun vihjeiden perusteella: http://www.janosgyerik.com/practical-tips-for-using-git-with-large-subversion-repositories/
 
-[pinjaliina]/pinjaliina @ 2015-03-25
+plj@iki.fi @ 2015-03-25
